@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sticker-editor/static/js/main.6f2b4125.js",
+    "index.html": "/sticker-editor/index.html",
+    "main.6f2b4125.js.map": "/sticker-editor/static/js/main.6f2b4125.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6f2b4125.js"
+  ]
+}
